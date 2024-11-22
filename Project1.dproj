@@ -105,6 +105,7 @@
         <DCCReference Include="..\Cliente.pas"/>
         <DCCReference Include="..\dmPrincipal.pas"/>
         <DCCReference Include="..\Venda.pas"/>
+        <DCCReference Include="Carro.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

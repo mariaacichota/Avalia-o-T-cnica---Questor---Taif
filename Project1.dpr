@@ -5,7 +5,8 @@ uses
   uPrincipal in '..\uPrincipal.pas' {frmPrincipal},
   Cliente in '..\Cliente.pas',
   dmPrincipal in '..\dmPrincipal.pas',
-  Venda in '..\Venda.pas';
+  Venda in '..\Venda.pas',
+  Carro in 'Carro.pas';
 
 {$R *.res}
 

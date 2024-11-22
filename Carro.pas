@@ -36,7 +36,7 @@ end;
 
 procedure TCarro.InserirDadosBD;
 begin
-  dmPrincipal.InserirDadosBD(Format('INSERT INTO Carros (Modelo, DataLancamento) VALUES (\'%s\', \'%s\')'
+  dmPrincipal.InserirDadosBD(Format('INSERT INTO Carros (Modelo, DataLancamento) VALUES (''%s'', ''%s'')'
                                 , [FModelo, DateToStr(FDataLancamento)]));
 end;
 

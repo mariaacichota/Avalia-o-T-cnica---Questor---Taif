@@ -38,8 +38,8 @@ end;
 
 procedure TVenda.InserirDadosBD;
 begin
-  dmPrincipal.InserirDadosBD(Format('INSERT INTO Vendas (ClienteID, CarroID, DataVenda) VALUES (%d, %d, \'%s\')'
-                                , [FClienteID, FCarroID, DateToStr(FDataVenda)]));
+  dmPrincipal.InserirDadosBD(Format('INSERT INTO Vendas (ClienteID, CarroID, DataVenda) VALUES (%d, %d, ''%s'')',
+                                  [FClienteID, FCarroID, DateToStr(FDataVenda)]));
 end;
 
 

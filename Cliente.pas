@@ -38,7 +38,7 @@ end;
 procedure TCliente.InserirDadosBD;
 begin
   dmPrincipal.InserirDadosBD(
-  Format('INSERT INTO Clientes (Nome, CPF, DataCadastro) VALUES (\'%s\', \'%s\', \'%s\')',
+  Format('INSERT INTO Clientes (Nome, CPF, DataCadastro) VALUES (''%s'', ''%s'', ''%s'')',
    [FNome, FCPF, DateToStr(FDataCadastro)]));
 end;
 
