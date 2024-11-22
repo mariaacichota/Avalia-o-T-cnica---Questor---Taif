@@ -2,11 +2,11 @@ program Project1;
 
 uses
   Vcl.Forms,
-  uPrincipal in '..\uPrincipal.pas' {frmPrincipal},
-  Cliente in '..\Cliente.pas',
-  dmPrincipal in '..\dmPrincipal.pas',
-  Venda in '..\Venda.pas',
-  Carro in 'Carro.pas';
+  Carro in 'Carro.pas',
+  Cliente in 'Cliente.pas',
+  dmPrincipal in 'dmPrincipal.pas',
+  uPrincipal in 'uPrincipal.pas' {frmPrincipal},
+  Venda in 'Venda.pas';
 
 {$R *.res}
 

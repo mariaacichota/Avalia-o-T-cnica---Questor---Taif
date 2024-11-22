@@ -1,19 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2024/11/22 17:25:56.800,=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/22 17:26:57.456,C:\Repositório\Tabelass.dfm=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2024/11/22 17:26:57.456,C:\Repositório\Tabelass.pas=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/22 17:27:08.734,C:\Repositório\Tabelas.dfm=C:\Repositório\Tabelass.dfm</Transaction>
-    <Transaction>2024/11/22 17:27:08.734,C:\Repositório\Tabelas.pas=C:\Repositório\Tabelass.pas</Transaction>
-    <Transaction>2024/11/22 17:27:45.276,C:\Repositório\uPrincipal.pas=C:\Repositório\Tabelas.pas</Transaction>
-    <Transaction>2024/11/22 17:27:45.276,C:\Repositório\uPrincipal.dfm=C:\Repositório\Tabelas.dfm</Transaction>
-    <Transaction>2024/11/22 17:27:52.095,=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/22 17:31:26.650,C:\Repositório\Cliente.pas=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/22 17:39:02.684,=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/22 17:39:14.637,C:\Repositório\dmPrincipal.pas=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/22 17:39:21.662,=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/22 17:39:26.621,C:\Repositório\Venda.pas=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/22 17:52:15.381,C:\Repositório\Taif - Questor\Project1.dproj=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2024/11/22 17:25:56.000.800,=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/22 17:26:57.000.456,C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Repositório\Tabelass.pas</Transaction>
+    <Transaction>2024/11/22 17:26:57.000.456,C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Repositório\Tabelass.dfm</Transaction>
+    <Transaction>2024/11/22 17:27:08.000.734,C:\Repositório\Tabelass.pas=C:\Repositório\Tabelas.pas</Transaction>
+    <Transaction>2024/11/22 17:27:08.000.734,C:\Repositório\Tabelass.dfm=C:\Repositório\Tabelas.dfm</Transaction>
+    <Transaction>2024/11/22 17:27:45.000.276,C:\Repositório\Tabelas.dfm=C:\Repositório\uPrincipal.dfm</Transaction>
+    <Transaction>2024/11/22 17:27:45.000.276,C:\Repositório\Tabelas.pas=C:\Repositório\uPrincipal.pas</Transaction>
+    <Transaction>2024/11/22 17:27:52.000.095,=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/22 17:31:26.000.650,C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Repositório\Cliente.pas</Transaction>
+    <Transaction>2024/11/22 17:39:02.000.684,=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/22 17:39:14.000.637,C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Repositório\dmPrincipal.pas</Transaction>
+    <Transaction>2024/11/22 17:39:21.000.662,=C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/22 17:39:26.000.621,C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Repositório\Venda.pas</Transaction>
+    <Transaction>2024/11/22 17:52:15.000.381,C:\Users\Maria Cichota\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Repositório\Taif - Questor\Project1.dproj</Transaction>
+    <Transaction>2024/11/22 18:33:09.836,C:\Repositório\Taif - Questor\Avalia-o-T-cnica---Questor---Taif\Carro.pas=</Transaction>
+    <Transaction>2024/11/22 18:33:20.455,=C:\Repositório\Taif - Questor\Avalia-o-T-cnica---Questor---Taif\Carro.pas</Transaction>
+    <Transaction>2024/11/22 18:33:20.510,=C:\Repositório\Taif - Questor\Avalia-o-T-cnica---Questor---Taif\Cliente.pas</Transaction>
+    <Transaction>2024/11/22 18:33:20.554,=C:\Repositório\Taif - Questor\Avalia-o-T-cnica---Questor---Taif\dmPrincipal.pas</Transaction>
+    <Transaction>2024/11/22 18:33:20.687,=C:\Repositório\Taif - Questor\Avalia-o-T-cnica---Questor---Taif\uPrincipal.pas</Transaction>
+    <Transaction>2024/11/22 18:33:20.725,=C:\Repositório\Taif - Questor\Avalia-o-T-cnica---Questor---Taif\Venda.pas</Transaction>
   </Transactions>
 </BorlandProject>
